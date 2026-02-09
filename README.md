@@ -107,11 +107,11 @@ while (1)
 ```
 
 ## OUTPUT
-OFF :
-![Iot off img](https://github.com/user-attachments/assets/1f0e52d2-ac0e-423c-a7d2-de3da334d2a0)
+## ON
+![WhatsApp Image 2025-09-27 at 09 02 47_54946314](https://github.com/user-attachments/assets/8aeb5682-36c8-4165-9284-85b828a7febc)
 
-ON:
-![IOT on img](https://github.com/user-attachments/assets/a90c849c-84a3-4e42-9d8f-60e1daaae860)
+## OFF
+![WhatsApp Image 2025-09-27 at 09 03 23_94cfe618](https://github.com/user-attachments/assets/a1ac203c-7cf0-4fc6-aec3-b1a6951d7229)
 
 ## Result
 
