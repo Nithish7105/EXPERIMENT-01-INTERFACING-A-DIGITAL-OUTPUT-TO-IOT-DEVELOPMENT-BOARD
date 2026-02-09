@@ -108,14 +108,10 @@ while (1)
 
 ## OUTPUT
 OFF :
-
 ![Iot off img](https://github.com/user-attachments/assets/1f0e52d2-ac0e-423c-a7d2-de3da334d2a0)
 
-
 ON:
-
 ![IOT on img](https://github.com/user-attachments/assets/a90c849c-84a3-4e42-9d8f-60e1daaae860)
-
 
 ## Result
 
